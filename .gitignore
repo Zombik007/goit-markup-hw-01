@@ -1,3 +1,6 @@
+# Prettiesc file ignore
+.prettierrc.json
+
 # Logs
 logs
 *.log
